@@ -11,4 +11,4 @@
 
 ### Selected Pen - link to your selected pen
 
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+[Pure CSS Tic-tac-toe](https://codepen.io/ziga-miklic/pen/QWrGyW)
